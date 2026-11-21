@@ -1,13 +1,12 @@
 {
   "app": "Fish Discover",
-  "updated": "2026-07-29",
-  "englishPolicy": "../index.html",
+  "updated": "2026-11-21",
+  "englishPolicy": "../privacy.html",
   "storeLocaleSources": [
     "App Store Connect",
     "Google Play"
   ],
   "locales": [
-    "en-US",
     "af",
     "ar",
     "bg",
@@ -17,6 +16,7 @@
     "da",
     "de",
     "el",
+    "en-US",
     "es",
     "fa",
     "fi",
